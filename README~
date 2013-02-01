@@ -1,0 +1,31 @@
+Install in "~/Library/Services"
+
+How to use: Once installed, "Encrypt Selected" will appear in the
+Right-click context menu. 
+
+You will be prompted for a password, the selection will be encrypted in
+a new disk-image and sent to the "Trash".
+
+!IMPORTANT NOTE: You must empty the trash before the contents are really
+gone!
+
+To Securely Erase the Trash Folder, Hold the Command key while
+Right-Clicking it to erase everything inside forever!
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Mark Moran <disccomp@gmail.com>
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   Contents/Info.plist
+#	new file:   Contents/QuickLook/Preview.png
+#	new file:   Contents/document.wflow
+#
